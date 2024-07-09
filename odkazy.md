@@ -3,16 +3,10 @@
 Zde jsou odkazy na všechny Discordy, Weby, Servery
 
 {% hint style="info" %}
-Main Discord -> [https://discord.gg/providerp](https://discord.gg/providerp)\
-Status -> [https://stats.uptimerobot.com/EMWqnS1Onk](https://stats.uptimerobot.com/EMWqnS1Onk)
+Main Discord -> [https://discord.gg/splashrp](https://discord.gg/splashrp)\
 
-Nelegal Discord -> [https://discord.gg/CsrXBzYT](https://discord.gg/CsrXBzYT)
+Nelegal Discord -> [https://discord.gg/d6wA6wcJ](https://discord.gg/d6wA6wcJ)
 
-TikTok -> [https://www.tiktok.com/@projectwaxanity](https://www.tiktok.com/@projectwaxanity)
 
-Instagram -> [https://www.instagram.com/provide.roleplay/](https://www.instagram.com/provide.roleplay/)
-
-YouTube -> [https://www.youtube.com/@provideroleplay](https://www.youtube.com/@provideroleplay)
-
-FiveM Connect -> [https://cfx.re/join/9ejbdy](https://cfx.re/join/9ejbdy)
+FiveM Connect -> [https://cfx.re/join/3kq36r](https://cfx.re/join/3kq36r)
 {% endhint %}
