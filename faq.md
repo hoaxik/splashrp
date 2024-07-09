@@ -18,9 +18,9 @@
 
 <summary><mark style="color:purple;">Mohu se připojit do jakékoliv frakce bez WL?</mark></summary>
 
-Ano! Náš server je kompletně non-whitelist
+Bohužel ne! Náš server je semi-whitelist
 
-Takže se můžeš připojit kamkoliv, stáčí jen být u nás na Discordu
+Takže aby ses mohl připojit do frakce musíš mít whitelist.
 
 </details>
 
