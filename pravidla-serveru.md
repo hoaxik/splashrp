@@ -47,7 +47,7 @@ Cayo Perico se rozděluje na dvě části:
 * Mimo dosah radaru lze používat helikoptéru na nízké přelety, každopádně je čistě na hráčích, zda Vás někdo chytí. (Air Unit)
 * Platí přísný zákaz narušení vzdušného prostoru letadlových lodí, základen a státních budov s heliporty.
 
-<figure><img src=".gitbook/assets/los_santos_radar_waxanity.png" alt="" width="375"><figcaption><p>Fotka Los Santos ostrovu</p></figcaption></figure>
+<figure><img src=".gitbook/assets/radar_splash.png" alt=""><figcaption><p>Fotka Los Santos ostrovu</p></figcaption></figure>
 
 ## <mark style="color:purple;">CK</mark>
 
